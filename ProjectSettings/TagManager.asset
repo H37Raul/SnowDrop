@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - SolidObjects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1004655797
+    locked: 0
+  - name: MidGround
+    uniqueID: 244272853
+    locked: 0
+  - name: ForeGround
+    uniqueID: 2578737139
+    locked: 0
+  - name: 44Ground
+    uniqueID: 1261227193
+    locked: 0
+  - name: 444Ground
+    uniqueID: 2867631467
+    locked: 0
+  - name: 8Ground
+    uniqueID: 3414244223
+    locked: 0
+  - name: 88Ground
+    uniqueID: 231582063
+    locked: 0
+  - name: Player
+    uniqueID: 929695255
+    locked: 0
+  - name: After
+    uniqueID: 3342182641
+    locked: 0
+  - name: Barrie
+    uniqueID: 3843305609
+    locked: 0
+  m_RenderingLayers:
+  - Default
